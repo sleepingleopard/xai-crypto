@@ -1,0 +1,16 @@
+h2o
+hmmlearn
+json5
+keras
+matplotlib
+numpy
+Orange3
+pandas
+python-binance
+requests
+scikit-learn
+scipy
+shap
+ta
+tensorflow
+urllib3
